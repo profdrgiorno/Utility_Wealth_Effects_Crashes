@@ -1,0 +1,9 @@
+Calibration: q* = 1.0785
+  q=1.5: closed-form m* = 2.858, P* = 0.854, W* = 0.554
+  q=2.5: closed-form m* = 2.673, P* = 1.195, W* = 0.895
+Largest one-step price drop as m falls from 6 to 1 (grid search):
+  q=1.0: drop = 0.004 at m = 5.700
+  q=1.5: drop = 0.910 at m = 2.855
+Leverage lowers q* (Corollary 1): {0.0: 1.0824, -0.3: 1.0785, -0.9: 1.0718}
+Proposition 3 random check: 17093 of 17093 relevant folds agree (1.0000)
+Fragile folds (W*<1/gamma): 8821; robust folds (W*>1/gamma): 25405

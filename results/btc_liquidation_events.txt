@@ -1,0 +1,11 @@
+      date  liq $bn                        event   b-  prior 30d %  worst ret %  jump@3s
+2025-10-10    19.16      US tariff hike on China 0.15         8.73        -7.23        1
+2021-04-17     9.94     AML rumour + mining halt 0.31         4.49        -7.65        0
+2021-05-18     9.01  Tesla reversal + regulation 0.82       -33.21       -14.81        1
+2021-02-21     4.10  Overheated rally correction 0.53        59.88        -5.97        0
+2021-09-06     3.65          El Salvador BTC law 0.27        18.96       -11.72        1
+2025-09-21     3.62 Over-leveraged longs flushed 0.13         2.90        -2.24        0
+2021-02-22     3.15               Yellen remarks 0.44        55.58       -10.46        0
+2026-08-18     2.99      Treasury buybacks + SEC 0.18        -0.45         0.27        0
+2021-04-22     2.92       Capital-gains tax plan 0.72        -1.15        -4.06        0
+2021-04-15     2.77           Turkey payment ban 0.47        12.12        -2.79        0

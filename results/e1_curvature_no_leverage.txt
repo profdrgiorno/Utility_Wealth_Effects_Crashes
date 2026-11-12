@@ -1,0 +1,6 @@
+BTC-USD_daily.csv          -2.5s jumps= 78  b^2= 1.02 (z  0.96)  LR= 0.87  boot share b^2>0=0.877  [p00=0.905 p11=0.826]
+BTC-USD_daily.csv          -3s jumps= 52  b^2= 2.16 (z  1.64)  LR= 2.71  boot share b^2>0=0.983  [p00=0.905 p11=0.826]
+BTC-USD_daily.csv          -4s jumps= 24  b^2= 2.65 (z  1.74)  LR= 2.18  boot share b^2>0=0.970  [p00=0.905 p11=0.826]
+GSPC_daily_1990_2026.csv   -2.5s jumps=148  b^2= 0.87 (z  1.42)  LR= 2.59  boot share b^2>0=0.910  [p00=0.987 p11=0.968]
+GSPC_daily_1990_2026.csv   -3s jumps= 83  b^2= 1.04 (z  1.68)  LR= 2.48  boot share b^2>0=0.977  [p00=0.987 p11=0.968]
+GSPC_daily_1990_2026.csv   -4s jumps= 27  b^2= 1.18 (z  0.71)  LR= 1.21  boot share b^2>0=0.853  [p00=0.987 p11=0.968]

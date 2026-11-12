@@ -1,0 +1,2 @@
+S&P/Ibovespa: Ibov jump rate 0.60% overall, 21.9% on S&P jump days; share of Ibov jumps with S&P jump same/previous day 0.37
+S&P/Bitcoin: BTC jump rate 1.38% overall, 9.8% on S&P jump days; co-jump dates ['2020-03-12', '2020-09-03', '2021-09-20', '2025-10-10']

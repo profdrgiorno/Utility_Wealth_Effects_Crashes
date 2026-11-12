@@ -1,0 +1,30 @@
+Sample 1928-01-04..2022-11-30: days=23529, down jumps=501, clarity median=0.23
+HMM: calm sd=0.71, stress sd=2.23, p00=0.9887, p11=0.9573
+
+A. Daily probit on b, b^2
+  J_low  b= 1.77 (z  4.43)  b^2=-0.21 (z -0.49)  LR(b^2)=0.30
+  J_high b= 2.45 (z  7.81)  b^2=-1.50 (z -4.20)  LR(b^2)=19.32
+
+B. P(low clarity | crash) on b: 0.987 (z 5.56)
+Figure 1 data (% low clarity, crash days):
+               mean  count
+bin                       
+(-0.001, 0.2]  26.1     88
+(0.2, 0.5]     41.2     51
+(0.5, 0.8]     38.8     67
+(0.8, 1.0]     61.0    295
+  1928-1945: low stress 46.7% (n=45), high stress 74.6% (n=209)
+  1946-1996: low stress 30.0% (n=40), high stress 48.7% (n=39)
+  1997-2022: low stress 20.4% (n=54), high stress 27.2% (n=114)
+
+C. Table 1 robustness
+  + size                 b=0.947 (z 4.56)
+  + size + era           b=0.820 (z 3.70)
+  + size + era + trend   b=0.814 (z 3.68)
+b             False  True 
+size_tercile              
+small          55.6   66.5
+mid            31.4   47.7
+large          29.5   52.8
+  + crash in previous 5 days: b=0.441 (z 1.68); prev5=0.446 (z 3.11)
+  first crashes only (n=276): b=0.493 (z 1.62); low-clarity 30.3% (n=132) vs 45.8% (n=144)

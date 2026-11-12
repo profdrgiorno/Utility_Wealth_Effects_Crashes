@@ -1,0 +1,2 @@
+Gamma shape a_q = 3.125 (Feller condition holds: True)
+Pr(q > 1.6): simulated 0.3082  vs  Gamma tail 0.3018

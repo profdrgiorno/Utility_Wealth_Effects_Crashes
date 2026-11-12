@@ -1,0 +1,8 @@
+../results/panel_sp500_excess.csv: 1998-03-02..2022-11-30, down jumps=164
+  A. J_low  b^2xL =  -0.24 (z -1.33)  LR = 3.16
+  A. J_high b^2xL =   0.10 (z  0.58)  LR = 0.63
+  B. P(low clarity | jump): b x L = -0.409 (z -1.19)
+../results/panel_sp500_level.csv: 1997-03-03..2022-11-30, down jumps=168
+  A. J_low  b^2xL =   0.07 (z  0.33)  LR = 0.28
+  A. J_high b^2xL =   0.23 (z  1.16)  LR = 3.03
+  B. P(low clarity | jump): b x L = -0.120 (z -0.34)

@@ -1,0 +1,7 @@
+leverage threshold  jumps  b^2 x L      z     LR
+level        -2.5s    126    -0.09  -0.86   0.82
+level        -3.0s     71    -0.13  -1.11   1.13
+level        -4.0s     22     0.03   0.08   0.02
+excess       -2.5s    120    -0.16  -1.37   2.66
+excess       -3.0s     69    -0.11  -0.80   0.87
+excess       -4.0s     21     0.18   0.61   1.01
